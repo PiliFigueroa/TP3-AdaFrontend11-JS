@@ -2,6 +2,7 @@
 
 ## Pautas y requirimientos
 
+- Ejemplo: https://youtu.be/kbw9MZhuuS0
 - Este TP tiene un desarrollo individual.
 - Tecnologias:
     - Utilizar HTML, SASS y Javascript.
@@ -20,7 +21,7 @@
 
 - Al cargarse la pagina se visualiza el navbar, el formulario de busqueda y el footer.
 - Hay un componente que simula una carga, este durara 2 segundos, y al finalizar se cargaran los todos jobs disponibles (metodo GET).
-- El formulario permite filtrar la busqueda de jobs mediante los fields location, seniority o category. La busqueda realizada mostrara todos los resultados coincidentes con lo que elige el usuario. (metodo GET con filtros).
+- El formulario permite filtrar la busqueda de jobs mediante los fields location, seniority o category. La busqueda realizada mostrara todos los resultados coincidentes con lo que elige el usuario. (metodo GET con filtros, recuerden que mockAPI muestra todos los resultados que coincidan con cualquiera de los filtros puestos).
 - Si el usuario da click en "Clear" se deben limpiar los filtros del formulario y reiniciarse la busqueda (es decir, volveran a aparecer todos los jobs, metodo GET).
 - Si el usuario da click en "Create a job" debe desaparecer la homepage dejando ver un formulario para crear jobs (metodo POST). Al volver a la home, se vera el nuevo job creado igual que los preexistentes.
 - Si el usuario da click en "Details" se debera ver en pantalla unicamente el detalle del job seleccionado, tras 2 segundos de visualizar el componente de carga.
