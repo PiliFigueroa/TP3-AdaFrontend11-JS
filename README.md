@@ -1,5 +1,7 @@
 # Tercer Trabajo Practico ADA - Asincronismo / APIs
 
+## Fecha de pre-entrega: 20/05
+## Fecha de pre-entrega: 27/05
 ## Pautas y requirimientos
 
 - Ejemplo: https://youtu.be/kbw9MZhuuS0
@@ -58,6 +60,8 @@ const jobs = [
     - Por lo tanto al finalizar su proyecto, en master se revisara el historial de commits y no debe existir mas que el first commit y los merge.
 - HTML
     - Estructura semantica que pasa el validador de HTML (se revisara que no tengan errores)
+    - Deben estar las etiquetas de HTML5 (header, nav, main, footer)
+    - Buena nomenclatura de clases (de ser posible usar metodologia BEM)
 - CSS
     - Todo debe provenir de lo que se procesa de sass
 - SASS
