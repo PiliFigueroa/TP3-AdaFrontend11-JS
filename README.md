@@ -61,7 +61,7 @@ const jobs = [
 - HTML
     - Estructura semantica que pasa el validador de HTML (se revisara que no tengan errores)
     - Deben estar las etiquetas de HTML5 (header, nav, main, footer)
-    - Buena nomenclatura de clases (de ser posible usar metodologia BEM)
+    - Buena nomenclatura de clases.
 - CSS
     - Todo debe provenir de lo que se procesa de sass
 - SASS
