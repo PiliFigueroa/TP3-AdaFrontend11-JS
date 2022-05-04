@@ -78,5 +78,8 @@ const jobs = [
     - Es legible (buenas practicas y estandares)
     - Aprovecha las ventajas del sugar syntax
     - Utiliza un unico idioma (o codean en espanol o codean en ingles, no pueden mezclarse)
-    - No se visualizan errores en la consola.
+    - No se visualizan errores en la consola
+    - No hay console.logs() codeados
     - Respeta el flow
+- COMENTARIOS
+    - Los comentarios han de ser usados a conciencia, no en exceso. Si algo debe ser explicado, es que hay una mejor solucion.
